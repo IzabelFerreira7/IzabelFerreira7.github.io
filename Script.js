@@ -30,3 +30,8 @@ revelar.reveal('.efeito-proj3', {
     distance: '90px',
     delay: 1600
 })
+revelar.reveal('.efeito-proj4', {
+    duration: 2000,
+    distance: '90px',
+    delay: 2000
+})
